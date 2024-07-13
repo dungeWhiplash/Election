@@ -23,3 +23,9 @@ KDE plot for total votes:  ![image](https://github.com/user-attachments/assets/5
 
 ![image](https://github.com/user-attachments/assets/01b38076-79a8-40de-9323-e27a235198fc)
 
+![image](https://github.com/user-attachments/assets/d0fdd78a-8b6b-475e-8e1e-ca821f6fe4ff)
+
+![image](https://github.com/user-attachments/assets/72b0d328-56dd-492a-b6f4-48405e0f3bcd)
+
+![image](https://github.com/user-attachments/assets/7f73598c-abfc-4c58-bde1-90b0c5d1c6fc)
+
