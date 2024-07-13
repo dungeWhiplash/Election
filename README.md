@@ -63,3 +63,9 @@
 
 ### Constituency elected candidates where party has less than 10% vote share at state level in 2019: 37 constituencies
 ![image](https://github.com/user-attachments/assets/d76742b8-654f-4a3a-a5f1-f322f9f482ff)
+
+## Correlation between voter turnout and postal votes: 0.6712940000998021
+![image](https://github.com/user-attachments/assets/00c7c7f5-c4c6-45fa-a896-b1875e48602c)
+
+
+
