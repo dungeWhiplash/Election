@@ -22,28 +22,28 @@
 
 
 ### Top Constituency in 2014
-![image](https://github.com/user-attachments/assets/58e37368-1f80-425d-add0-10fe929c2b07)
+![image](https://github.com/user-attachments/assets/870e27c0-44de-415a-8e8c-715d9874f633)
 
 ### Bottom Constituency in 2014
-![image](https://github.com/user-attachments/assets/82208a1a-b319-4121-ba86-e13b58a245c5)
+![image](https://github.com/user-attachments/assets/8144d33c-78cb-4b1f-bc13-56ab935754ed)
 
 ### Top Constituency in 2019
-![image](https://github.com/user-attachments/assets/ff172070-3ff5-4b6c-b1df-cf06c2e58a12)
+![image](https://github.com/user-attachments/assets/af6ddb49-c73b-4e20-91ed-263ad8bf3c87)
 
 ### Bottom Constituency in 2019
-![image](https://github.com/user-attachments/assets/8f7673b3-d5e0-44ec-bf61-36f37736a34c)
+![image](https://github.com/user-attachments/assets/185086bb-08b3-4c11-97de-a521d1f19e65)
 
 ### Top 5 states in 2014
-![image](https://github.com/user-attachments/assets/e72e8899-7929-4941-8a93-495b5c1d3dc4)
+![image](https://github.com/user-attachments/assets/1ebebcfe-48b7-4573-9a02-e13f0fd98601)
 
 ### Bottom 5 states in 2014
-![image](https://github.com/user-attachments/assets/85db6efc-9d73-4814-806c-b752fbc2e630)
+![image](https://github.com/user-attachments/assets/947571e2-bcac-402b-b035-773dc0268851)
 
 ### Top 5 states in 2019
-![image](https://github.com/user-attachments/assets/01b38076-79a8-40de-9323-e27a235198fc)
+![image](https://github.com/user-attachments/assets/a65ec06b-5286-475c-9c4a-6d00eea13b80)
 
-### Top 5 states in 2019
-![image](https://github.com/user-attachments/assets/d0fdd78a-8b6b-475e-8e1e-ca821f6fe4ff)
+### Bottom 5 states in 2019
+![image](https://github.com/user-attachments/assets/72508f25-d98f-402e-826f-8470adc735d9)
 
 ### Repeat consitutency win in 2019 as per party
 ![image](https://github.com/user-attachments/assets/72b0d328-56dd-492a-b6f4-48405e0f3bcd)
