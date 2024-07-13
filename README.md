@@ -48,5 +48,18 @@
 ### Repeat consitutency win in 2019 as per party
 ![image](https://github.com/user-attachments/assets/72b0d328-56dd-492a-b6f4-48405e0f3bcd)
 
-### Constituency elected candidates where party has less than 10% vote share at state level in 2019:
+## Major two parties vote gain/lost:
+### Vote gain for BJP
+![image](https://github.com/user-attachments/assets/eacf0867-2c9e-4808-a321-413073e2d732)
+
+### Vote gain for INC
+![image](https://github.com/user-attachments/assets/f7c999ec-9380-4835-bc1b-38dda06bd4cb)
+
+### Vote lost for BJP
+![image](https://github.com/user-attachments/assets/e4a576b9-461b-4e62-8b42-b6e9f24f4f8b)
+
+### Vote lost for INC
+![image](https://github.com/user-attachments/assets/c8e40467-62b8-4370-a73c-c7c7ef93b360)
+
+### Constituency elected candidates where party has less than 10% vote share at state level in 2019: 37 constituencies
 ![image](https://github.com/user-attachments/assets/d76742b8-654f-4a3a-a5f1-f322f9f482ff)
