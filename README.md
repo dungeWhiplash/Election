@@ -11,6 +11,9 @@
 
 ## Additional Visualizations
 
+### Percent electors change per state:
+![image](https://github.com/user-attachments/assets/58e13a63-d46f-4c17-a4ea-1f7f7eb1755c)
+
 ### 2014 general election candidate age distribution
 ![image](https://github.com/user-attachments/assets/1894db3b-f239-46eb-a38b-9d07a6915505)
 
@@ -19,7 +22,7 @@
 
 
 ### Top Constituency in 2014
-![image](https://github.com/user-attachments/assets/d838154b-9027-4924-bf4c-9313ccd05653)
+![image](https://github.com/user-attachments/assets/58e37368-1f80-425d-add0-10fe929c2b07)
 
 ### Bottom Constituency in 2014
 ![image](https://github.com/user-attachments/assets/82208a1a-b319-4121-ba86-e13b58a245c5)
